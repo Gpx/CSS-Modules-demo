@@ -1,0 +1,11 @@
+.label {
+  display: inline-block;
+  margin: 1em;
+  padding: 0.3em 0.6em;
+  font-family: 'Black Ops One';
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: #777;
+  border: 5px solid #777;
+  transform: rotate(12deg);
+}
